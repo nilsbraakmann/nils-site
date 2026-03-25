@@ -3,9 +3,29 @@ title: "Nils Braakmann"
 toc: false
 ---
 
+::: {.home-hero}
+::: {.columns .v-center}
+::: {.column width="58%"}
 Professor of Economics at Newcastle University, working in empirical microeconomics and applied microeconometrics. My research uses large-scale administrative, survey, and geocoded data to study labour markets, the economics of crime, urban change, health, and related questions in international economics.
 
 I joined Newcastle University in 2010 and currently serve as Deputy Head of Economics. Before moving to Newcastle, I was a researcher and postdoctoral scholar at Leuphana University Lueneburg, where I also completed my doctorate in Economics.
+:::
+
+::: {.column width="42%"}
+::: {.portrait-grid}
+::: {.portrait-card}
+![Official portrait](headshot.jpg){.homepage-portrait}
+Official photo
+:::
+
+::: {.portrait-card}
+![Caricature portrait](caricature.jpeg){.homepage-portrait}
+AI-generated caricature
+:::
+:::
+:::
+:::
+:::
 
 ## Research Areas
 
