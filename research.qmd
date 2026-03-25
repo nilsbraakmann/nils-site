@@ -1,0 +1,48 @@
+---
+title: "Research"
+---
+
+My work is in empirical microeconomics, with a particular focus on labour economics, the economics of crime, urban economics, health economics, and applied microeconometric methods. Across projects, I am especially interested in how shocks, institutions, and local environments shape individual outcomes and neighbourhood change.
+
+Most of my recent work combines administrative and geocoded data with causal inference methods. Earlier and related work also covers immigration, international economics, and trade policy.
+
+## Research Themes
+
+### Labour Markets, Shocks, and Adjustment
+
+I study how workers and local labour markets respond to economic shocks, changing workplace risk, and institutional change. This includes mass layoffs, workplace unionisation, and the labour-market consequences of COVID-19.
+
+### Crime, Policing, and Neighbourhoods
+
+A large part of my recent research examines crime, policing, and local disorder using highly disaggregated spatial data. This work looks at the geography of crime, civilian responses to policing, and the incentives that shape criminal behaviour.
+
+### Urban Change and Local Economies
+
+I am interested in neighbourhood composition, housing markets, high street decline, and the broader consequences of local economic change for communities and social outcomes.
+
+### Health, Education, and Human Capital
+
+I also work on questions in health and education economics, including how education affects health-related behaviour and how individual and family circumstances shape labour market outcomes.
+
+## Current Projects
+
+- *The death of the "High Street"? Main street closures, social disorder and urban change* (with Diego Zambiasi), revise and resubmit
+- *Regional employment effects from mass lay-offs across European regions* (with Wessel Vermeulen), under review
+- *Temperature, crime and policing: Evidence from UK geocoded data*, under review
+- *Juvenile courts and recidivism* (with Bahadir Dursun and Diego Zambiasi), under review
+- *Media and Crime: The Impact of Publicising Gang Territories* (with Diego Zambiasi), under review
+
+## Selected Papers
+
+- [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
+- [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* (2025).
+- [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with Arnaud Chevalier and Tanya Wilson). *American Economic Journal: Applied Economics* (2024).
+- [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and John Wildman). *Journal of Urban Economics* (2024).
+- [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with Wessel Vermeulen). *British Journal of Industrial Relations* (2023).
+- [Worker adjustment to unexpected occupational risk: Evidence from COVID-19](https://doi.org/10.1016/j.euroecorev.2022.104325) (with Barbara Eberth and John Wildman). *European Economic Review* (2022).
+- [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* (2020).
+- [The causal relationship between education, health and health related behaviour: Evidence from a natural experiment in England](https://doi.org/10.1016/j.jhealeco.2011.05.015). *Journal of Health Economics* (2011).
+
+::: {.callout-note}
+Current and older working papers are available through the [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html).
+:::

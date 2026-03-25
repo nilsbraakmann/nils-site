@@ -1,0 +1,25 @@
+---
+title: "Contact"
+toc: false
+---
+
+## Contact Details
+
+- **Email:** [nils.braakmann@ncl.ac.uk](mailto:nils.braakmann@ncl.ac.uk)
+- **Affiliation:** Professor of Economics, Newcastle University Business School
+- **Current role:** Deputy Head of Economics
+- **Office:** Room 3.21, 3rd Floor, Frederick Douglass Centre, Newcastle University, Newcastle upon Tyne, NE1 7RU, United Kingdom
+
+## Office Hours
+
+Module-specific office hours are listed on the relevant Canvas pages. If those times are not suitable, students can email to arrange an individual meeting.
+
+## Links
+
+- [Newcastle University profile](https://www.ncl.ac.uk/business/people/profile/nilsbraakmann.html)
+- [Research](research.qmd)
+- [Publications](publications.qmd)
+- [Teaching](teaching.qmd)
+- [CV (PDF)](cv_short.pdf)
+- [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html)
+- [Personal website](http://www.sites.google.com/site/nilsbraakmann/)

@@ -1,0 +1,81 @@
+---
+title: "Teaching"
+---
+
+I teach econometrics and applied microeconomics at undergraduate, postgraduate, and doctoral level. My teaching is centred on causal inference, quasi-experimental methods, and the empirical analysis of policy-relevant questions.
+
+## Current Modules
+
+### Undergraduate
+
+- ECO2009 Econometric Analysis (with John Wildman)
+- ECO3008 Advanced Econometric Analysis
+
+### Postgraduate
+
+- Topics in Microeconomics, with teaching on the economics of crime
+- Economics and Public Policy of Sustainability and Climate Change (with Sara Maioli)
+
+### PhD
+
+- Research Practice in Economics and Finance (with Bahadir Dursun)
+- Advanced teaching in causal inference and applied microeconometrics
+
+## Supervision
+
+I supervise undergraduate and postgraduate dissertations as well as PhD students in areas close to my research interests. I am particularly well placed to supervise projects that involve substantial data work, administrative or geocoded data, and advanced econometric methods.
+
+Areas of fit include labour economics, the economics of crime, urban economics, health economics, immigration, and related applied micro topics.
+
+### Completed PhD Supervision
+
+- Hasan Ankara, health economics
+- Muhammad Waqas, labour economics and immigration
+- Bo Gao, international economics and trade policy
+- Eduardo Gonzalo Almorox, health economics and industrial organisation
+- Ana Noveria, labour, education, and health policy
+- Saule Kemelbayeva, education and labour economics
+- Kerry Bray, immigration, austerity, and media
+- Liangxun Xie, public sector and infrastructure economics
+
+### Dissertation Supervision
+
+- Regular undergraduate and postgraduate dissertation supervision at Newcastle University since 2010
+- Recent undergraduate supervision includes 4 dissertations in 2024/25, 4 in 2023/24, and 3 in 2022/23
+
+## Teaching History
+
+### Undergraduate Modules
+
+- Econometric Analysis
+- Advanced Econometric Analysis
+- Economic Applications
+- British Economy
+- Introductory Economics
+- Statistical Methods for Economics
+- Economics of Happiness
+- Causal inference and treatment effect estimation
+- Current Topics in Labor Economics and Social Policy
+
+### Postgraduate Modules
+
+- Economics and Public Policy of Sustainability and Climate Change
+- Topics in Microeconomics
+- Cross sectional and panel econometrics
+- Intro to Maths and Stats
+- Methods of Public Economics, Law and Politics I (Quantitative methods)
+
+### PhD Modules
+
+- Research Practice in Economics and Finance
+- Causal inference and applied microeconometrics
+- Causal inference and quasi-experimental methods
+- Applied Microeconometrics
+- Applied Econometrics
+- Empirics in a Nutshell
+
+## Student Resources
+
+- Module materials, announcements, and module-specific office hours are available on the relevant Canvas pages.
+- If the published office hours do not work, students should email to arrange an individual meeting.
+- Prospective PhD students are welcome to get in touch if their project fits the areas listed above.

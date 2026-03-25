@@ -1,0 +1,66 @@
+---
+title: "Publications"
+---
+
+This page lists selected publications together with a fuller chronological record of journal articles. For working papers and older versions, see the [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html) or the [CV (PDF)](cv_short.pdf).
+
+## Selected Publications
+
+- **Crime and policing.** [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with Arnaud Chevalier and Tanya Wilson). *American Economic Journal: Applied Economics* 16(4), 2024, 144-160.
+- **Crime and policing.** [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* 65(1), 2025, 182-201.
+- **Urban change.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and John Wildman). *Journal of Urban Economics* 141, 2024, 103439.
+- **Urban change.** [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* 80, 2020, 103374.
+- **Labour economics.** [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with Wessel Vermeulen). *British Journal of Industrial Relations* 61(4), 2023, 922-950.
+- **Labour economics.** [Worker adjustment to unexpected occupational risk: Evidence from COVID-19](https://doi.org/10.1016/j.euroecorev.2022.104325) (with Barbara Eberth and John Wildman). *European Economic Review* 150, 2022, 104325.
+- **Institutions and policy.** [Do higher education strikes affect university outcomes? Evidence from pension disputes in UK universities](https://doi.org/10.1111/irel.12392) (with Barbara Eberth). *Industrial Relations* 65(1), 2026, 45-63.
+- **Health and education.** [The causal relationship between education, health and health related behaviour: Evidence from a natural experiment in England](https://doi.org/10.1016/j.jhealeco.2011.05.015). *Journal of Health Economics* 30(4), 2011, 753-763.
+
+## Full Publication List
+
+### Refereed Journal Articles
+
+- **2026.** [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
+- **2026.** [Do higher education strikes affect university outcomes? Evidence from pension disputes in UK universities](https://doi.org/10.1111/irel.12392) (with Barbara Eberth). *Industrial Relations* 65(1), 45-63.
+- **2026.** [Energy price shocks and the demand for energy-efficient housing: Evidence from Russia's invasion of Ukraine](https://doi.org/10.1111/ecca.70008) (with Bahadir Dursun and Harry Pickard). *Economica* 93(369), 30-51.
+- **2025.** [Do Social Interaction Mechanisms Affect University Reputation? Evidence from the UK Higher Education Sector](https://doi.org/10.1111/abac.12323) (with Rasha Abdelbabie and Aly Salama). *Abacus* 61(1), 53-92.
+- **2025.** [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* 65(1), 182-201.
+- **2025.** [Spatial inequality in unsolved crime: Evidence from small neighbourhoods](https://doi.org/10.1111/jors.12739) (with Bahadir Dursun and Diego Zambiasi). *Journal of Regional Science* 65(1), 258-283.
+- **2024.** [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with Arnaud Chevalier and Tanya Wilson). *American Economic Journal: Applied Economics* 16(4), 144-160.
+- **2024.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and John Wildman). *Journal of Urban Economics* 141, 103439.
+- **2024.** [Unions as insurance: Workplace unionisation and workers' outcomes during COVID-19](https://doi.org/10.1111/irel.12344) (with Boris Hirsch). *Industrial Relations* 63(2), 152-171.
+- **2023.** [Residential turnover and crime: Evidence from administrative data for England and Wales](https://doi.org/10.1093/bjc/azac090). *British Journal of Criminology* 63(6), 1460-1481.
+- **2023.** [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with Wessel Vermeulen). *British Journal of Industrial Relations* 61(4), 922-950.
+- **2022.** [Worker adjustment to unexpected occupational risk: Evidence from COVID-19](https://doi.org/10.1016/j.euroecorev.2022.104325) (with Barbara Eberth and John Wildman). *European Economic Review* 150, 104325.
+- **2022.** [Does stop and search reduce crime? Evidence from street-level data and a surge in operations following a high-profile crime](https://doi.org/10.1111/rssa.12839). *Journal of the Royal Statistical Society: Series A* 185(3), 1370-1397.
+- **2021.** [Immigration status uncertainty and mental health: Evidence from Brexit](https://doi.org/10.1111/irel.12287). *Industrial Relations* 60(4), 521-548.
+- **2021.** [The Effects of Collective Bargaining Systems on the Productivity Function of Firms: An Analysis of Bargaining Structures and Processes and the Implications for Policy Making](https://doi.org/10.1111/irj.12325) (with Bernd Brandl). *Industrial Relations Journal* 52(3), 218-236.
+- **2021.** [The performance effects of collective and individual bargaining: A comprehensive and granular analysis of the effects of different bargaining systems on company productivity](https://doi.org/10.1111/ilr.12166) (with Bernd Brandl). *International Labour Review* 160(1), 43-64.
+- **2021.** [Variable Pay and/or Collective Wage Bargaining? Complements or Substitutes?](https://doi.org/10.1177/0019793919883882) (with Barbara Bechter and Bernd Brandl). *Industrial and Labor Relations Review* 74(2), 443-469.
+- **2020.** [VAT Rebate As Trade Policy: Evidence from China](https://doi.org/10.1016/j.chieco.2020.101536) (with Bo Gao and Sara Maioli). *China Economic Review* 63, 101536.
+- **2020.** [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* 80, 103374.
+- **2019.** [Immigration and the property market: Evidence from England and Wales](https://doi.org/10.1111/1540-6229.12151). *Real Estate Economics* 47(2), 509-533.
+- **2018.** [Company closures and the erosion of the political center: Evidence from Germany](https://doi.org/10.1111/bjir.12292). *British Journal of Industrial Relations* 56(4), 835-858.
+- **2017.** [The link between crime risk and house prices: Evidence from UK street-level data](https://doi.org/10.1177/0042098016634611). *Urban Studies* 54(8), 1990-2007.
+- **2017.** [Are immigrants in favour of immigration? Evidence from England and Wales](https://doi.org/10.1515/bejeap-2016-0029) (with Muhammad Waqas and John Wildman). *B.E. Journal of Economic Analysis and Policy* 17(1), 20160029.
+- **2016.** [Reconsidering the impact of family size on labour supply: The twin-problems of the twin-birth instrument](https://doi.org/10.1111/rssa.12160) (with John Wildman). *Journal of the Royal Statistical Society: Series A* 179(4), 1093-1115.
+- **2014.** [Cannabis consumption, crime and victimization: Evidence from the 2004 cannabis declassification in the UK](https://doi.org/10.1016/j.socscimed.2014.06.003) (with Simon Jones). *Social Science and Medicine* 115, 29-37.
+- **2014.** [The consequences of own and spousal disability on labor market outcomes and subjective well-being: Evidence from Germany](https://doi.org/10.1007/s11150-012-9164-7). *Review of Economics of the Household* 12(4), 717-736.
+- **2013.** [The long-term impact of international experiences on objective and subjective career success](https://doi.org/10.1080/09585192.2013.775176) (with Torsten Biemann). *International Journal of Human Resource Management* 24(8), 3438-3456.
+- **2013.** [What determines wage inequality among young German university graduates?](https://doi.org/10.1515/jbnst-2013-0202). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 233(2), 130-158.
+- **2012.** [How do individuals deal with victimization and victimization risk? Longitudinal evidence from Mexico](https://doi.org/10.1016/j.jebo.2012.04.001). *Journal of Economic Behavior and Organization* 84(1), 335-344.
+- **2011.** [The causal relationship between education, health and health related behaviour: Evidence from a natural experiment in England](https://doi.org/10.1016/j.jhealeco.2011.05.015). *Journal of Health Economics* 30(4), 753-763.
+- **2011.** [Product Differentiation and Profitability in German Manufacturing Firms](https://doi.org/10.1515/jbnst-2011-0303) (with Joachim Wagner). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 231(3), 326-335.
+- **2011.** [Product Diversification and Stability of Employment and Sales: First Evidence from German Manufacturing Firms](https://doi.org/10.1080/00036841003742629) (with Joachim Wagner). *Applied Economics* 43(27), 3977-3985.
+- **2011.** [How does economic integration influence employment and wages in border regions? The case of the EU-enlargement 2004 and Germany's eastern border](https://doi.org/10.1007/s10290-010-0084-4) (with Alexander Vogel). *Review of World Economics* 147(2), 303-323.
+- **2010.** [Islamistic terror and the Job Prospects of Arab Men in Britain: Does a Country's Direct Involvement Matter?](https://doi.org/10.1111/j.1467-9485.2010.00525.x). *Scottish Journal of Political Economy* 57(4), 430-454.
+- **2010.** [Fields of training, plant characteristics and the gender wage gap in entry wages among skilled workers: Evidence from German administrative data](https://doi.org/10.1515/jbnst-2010-0103). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 230(1), 27-41.
+- **2010.** [The impact of the 2004 EU-enlargement on enterprise performance and exports of service enterprises in the German eastern border region](https://doi.org/10.1007/s10290-009-0042-1) (with Alexander Vogel). *Review of World Economics* 146(1), 75-89.
+- **2009.** [Is there a compensating wage differential for high crime levels? First evidence from Europe](https://doi.org/10.1016/j.jue.2009.08.002). *Journal of Urban Economics* 66(3), 218-231.
+- **2009.** [The impact of September 11th, 2001 on the employment prospects of Arabs and Muslims in the German labor market](https://doi.org/10.1515/jbnst-2009-0102). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 229(1), 2-21.
+- **2008.** [Wirkungen der Beschaeftigungspflicht schwerbehinderter Arbeitnehmer - Erkenntnisse aus der Einfuehrung des "Gesetzes zur Bekaempfung der Arbeitslosigkeit Schwerbehinderter"](https://ideas.repec.org/a/iab/iabzaf/v41i1p009-024.html). *Journal for Labour Market Research* 41(1), 9-24.
+
+### Other Publications
+
+- **2013.** [Labor Market Adjustments after a Large Import Shock: Evidence from the German Clothing Industry and the Multi-Fibre Arrangement](https://ideas.repec.org/p/iza/izadps/dp4633.html) (with Joachim Wagner). In *Daten in der wirtschaftswissenschaftlichen Forschung*.
+- **2008.** [Struktur und Erfolg von Ich-AG-Gruendungen - Ergebnisse einer Umfrage im Arbeitsagenturbezirk Lueneburg](https://pubdata.leuphana.de/entities/publication/39f6ebfd-833e-4587-93e5-86852d5ce31c). In *Mittelstand 2008*.
+- **2008.** [Die Einfuehrung der fachkundigen Stellungnahme bei der Ich-AG](https://pubdata.leuphana.de/entities/publication/7059b4ef-7ca6-42e1-ac19-56fbab549aca). In *Neue Ansaetze der MittelstandsForschung*.
