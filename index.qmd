@@ -3,29 +3,11 @@ title: "Nils Braakmann"
 toc: false
 ---
 
-::: {.home-hero}
-::: {.columns .v-center}
-::: {.column width="58%"}
+::: {.home-layout}
+::: {.home-copy}
 Professor of Economics at Newcastle University, working in empirical microeconomics and applied microeconometrics. My research uses large-scale administrative, survey, and geocoded data to study labour markets, the economics of crime, urban change, health, and related questions in international economics.
 
 I joined Newcastle University in 2010 and currently serve as Deputy Head of Economics. Before moving to Newcastle, I was a researcher and postdoctoral scholar at Leuphana University Lueneburg, where I also completed my doctorate in Economics.
-:::
-
-::: {.column width="42%"}
-::: {.portrait-grid}
-::: {.portrait-card}
-![Official portrait](headshot.jpg){.homepage-portrait}
-Official photo
-:::
-
-::: {.portrait-card}
-![Caricature portrait](caricature.jpeg){.homepage-portrait}
-AI-generated caricature
-:::
-:::
-:::
-:::
-:::
 
 ## Research Areas
 
@@ -39,8 +21,23 @@ AI-generated caricature
 - [Research](research.qmd)
 - [Publications](publications.qmd)
 - [Teaching](teaching.qmd)
+- [Management & Leadership](leadership.qmd)
 - [Contact](contact.qmd)
 - [CV (PDF)](https://www.dropbox.com/scl/fi/pwlra56p5qgnsfm3jgwml/cv_short.pdf?rlkey=3xcc5ol8gobuhwgbkxdwrzdqi&dl=0)
 - [Newcastle University profile](https://www.ncl.ac.uk/business/people/profile/nilsbraakmann.html)
 - [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html)
 - [Email](mailto:nils.braakmann@ncl.ac.uk)
+:::
+
+::: {.home-sidebar}
+::: {.portrait-card}
+![Official portrait](headshot.jpg){.homepage-portrait}
+Official photo
+:::
+
+::: {.portrait-card}
+![Caricature portrait](caricature.jpeg){.homepage-portrait}
+AI-generated caricature
+:::
+:::
+:::
