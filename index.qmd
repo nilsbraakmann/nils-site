@@ -1,6 +1,7 @@
 ---
 title: "Nils Braakmann"
 toc: false
+page-layout: full
 ---
 
 ::: {.home-layout}
