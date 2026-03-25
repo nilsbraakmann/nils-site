@@ -20,7 +20,7 @@ I joined Newcastle University in 2010 and currently serve as Deputy Head of Econ
 - [Publications](publications.qmd)
 - [Teaching](teaching.qmd)
 - [Contact](contact.qmd)
-- [CV (PDF)](cv_short.pdf)
+- [CV (PDF)](https://www.dropbox.com/scl/fi/pwlra56p5qgnsfm3jgwml/cv_short.pdf?rlkey=3xcc5ol8gobuhwgbkxdwrzdqi&dl=0)
 - [Newcastle University profile](https://www.ncl.ac.uk/business/people/profile/nilsbraakmann.html)
 - [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html)
 - [Email](mailto:nils.braakmann@ncl.ac.uk)

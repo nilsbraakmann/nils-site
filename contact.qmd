@@ -20,6 +20,6 @@ Module-specific office hours are listed on the relevant Canvas pages. If those t
 - [Research](research.qmd)
 - [Publications](publications.qmd)
 - [Teaching](teaching.qmd)
-- [CV (PDF)](cv_short.pdf)
+- [CV (PDF)](https://www.dropbox.com/scl/fi/pwlra56p5qgnsfm3jgwml/cv_short.pdf?rlkey=3xcc5ol8gobuhwgbkxdwrzdqi&dl=0)
 - [IDEAS/RePEc author page](http://ideas.repec.org/f/pbr294.html)
 - [Personal website](http://www.sites.google.com/site/nilsbraakmann/)
