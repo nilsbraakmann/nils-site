@@ -17,6 +17,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: leadership.qmd
+        text: Leadership
       - href: contact.qmd
         text: Contact
       - href: https://www.dropbox.com/scl/fi/pwlra56p5qgnsfm3jgwml/cv_short.pdf?rlkey=3xcc5ol8gobuhwgbkxdwrzdqi&dl=0
