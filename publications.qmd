@@ -8,7 +8,7 @@ This page lists selected publications together with a fuller chronological recor
 
 - **Crime and policing.** [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with [Arnaud Chevalier][arnaud-chevalier] and [Tanya Wilson][tanya-wilson]). *American Economic Journal: Applied Economics* 16(4), 2024, 144-160.
 - **Crime and policing.** [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* 65(1), 2025, 182-201.
-- **Urban change.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with [Kerry Bray][kerry-bray] and [John Wildman][john-wildman]). *Journal of Urban Economics* 141, 2024, 103439.
+- **Urban change.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and [John Wildman][john-wildman]). *Journal of Urban Economics* 141, 2024, 103439.
 - **Urban change.** [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* 80, 2020, 103374.
 - **Labour economics.** [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with [Wessel Vermeulen][wessel-vermeulen]). *British Journal of Industrial Relations* 61(4), 2023, 922-950.
 - **Labour economics.** [Worker adjustment to unexpected occupational risk: Evidence from COVID-19](https://doi.org/10.1016/j.euroecorev.2022.104325) (with [Barbara Eberth][barbara-eberth] and [John Wildman][john-wildman]). *European Economic Review* 150, 2022, 104325.
@@ -26,7 +26,7 @@ This page lists selected publications together with a fuller chronological recor
 - **2025.** [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* 65(1), 182-201.
 - **2025.** [Spatial inequality in unsolved crime: Evidence from small neighbourhoods](https://doi.org/10.1111/jors.12739) (with [Bahadir Dursun][bahadir-dursun] and [Diego Zambiasi][diego-zambiasi]). *Journal of Regional Science* 65(1), 258-283.
 - **2024.** [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with [Arnaud Chevalier][arnaud-chevalier] and [Tanya Wilson][tanya-wilson]). *American Economic Journal: Applied Economics* 16(4), 144-160.
-- **2024.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with [Kerry Bray][kerry-bray] and [John Wildman][john-wildman]). *Journal of Urban Economics* 141, 103439.
+- **2024.** [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and [John Wildman][john-wildman]). *Journal of Urban Economics* 141, 103439.
 - **2024.** [Unions as insurance: Workplace unionisation and workers' outcomes during COVID-19](https://doi.org/10.1111/irel.12344) (with [Boris Hirsch][boris-hirsch]). *Industrial Relations* 63(2), 152-171.
 - **2023.** [Residential turnover and crime: Evidence from administrative data for England and Wales](https://doi.org/10.1093/bjc/azac090). *British Journal of Criminology* 63(6), 1460-1481.
 - **2023.** [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with [Wessel Vermeulen][wessel-vermeulen]). *British Journal of Industrial Relations* 61(4), 922-950.
@@ -51,10 +51,10 @@ This page lists selected publications together with a fuller chronological recor
 - **2011.** [The causal relationship between education, health and health related behaviour: Evidence from a natural experiment in England](https://doi.org/10.1016/j.jhealeco.2011.05.015). *Journal of Health Economics* 30(4), 753-763.
 - **2011.** [Product Differentiation and Profitability in German Manufacturing Firms](https://doi.org/10.1515/jbnst-2011-0303) (with [Joachim Wagner][joachim-wagner]). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 231(3), 326-335.
 - **2011.** [Product Diversification and Stability of Employment and Sales: First Evidence from German Manufacturing Firms](https://doi.org/10.1080/00036841003742629) (with [Joachim Wagner][joachim-wagner]). *Applied Economics* 43(27), 3977-3985.
-- **2011.** [How does economic integration influence employment and wages in border regions? The case of the EU-enlargement 2004 and Germany's eastern border](https://doi.org/10.1007/s10290-010-0084-4) (with [Alexander Vogel][alexander-vogel]). *Review of World Economics* 147(2), 303-323.
+- **2011.** [How does economic integration influence employment and wages in border regions? The case of the EU-enlargement 2004 and Germany's eastern border](https://doi.org/10.1007/s10290-010-0084-4) (with Alexander Vogel). *Review of World Economics* 147(2), 303-323.
 - **2010.** [Islamistic terror and the Job Prospects of Arab Men in Britain: Does a Country's Direct Involvement Matter?](https://doi.org/10.1111/j.1467-9485.2010.00525.x). *Scottish Journal of Political Economy* 57(4), 430-454.
 - **2010.** [Fields of training, plant characteristics and the gender wage gap in entry wages among skilled workers: Evidence from German administrative data](https://doi.org/10.1515/jbnst-2010-0103). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 230(1), 27-41.
-- **2010.** [The impact of the 2004 EU-enlargement on enterprise performance and exports of service enterprises in the German eastern border region](https://doi.org/10.1007/s10290-009-0042-1) (with [Alexander Vogel][alexander-vogel]). *Review of World Economics* 146(1), 75-89.
+- **2010.** [The impact of the 2004 EU-enlargement on enterprise performance and exports of service enterprises in the German eastern border region](https://doi.org/10.1007/s10290-009-0042-1) (with Alexander Vogel). *Review of World Economics* 146(1), 75-89.
 - **2009.** [Is there a compensating wage differential for high crime levels? First evidence from Europe](https://doi.org/10.1016/j.jue.2009.08.002). *Journal of Urban Economics* 66(3), 218-231.
 - **2009.** [The impact of September 11th, 2001 on the employment prospects of Arabs and Muslims in the German labor market](https://doi.org/10.1515/jbnst-2009-0102). *Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik)* 229(1), 2-21.
 - **2008.** [Wirkungen der Beschaeftigungspflicht schwerbehinderter Arbeitnehmer - Erkenntnisse aus der Einfuehrung des "Gesetzes zur Bekaempfung der Arbeitslosigkeit Schwerbehinderter"](https://ideas.repec.org/a/iab/iabzaf/v41i1p009-024.html). *Journal for Labour Market Research* 41(1), 9-24.
@@ -65,7 +65,6 @@ This page lists selected publications together with a fuller chronological recor
 - **2008.** [Struktur und Erfolg von Ich-AG-Gruendungen - Ergebnisse einer Umfrage im Arbeitsagenturbezirk Lueneburg](https://pubdata.leuphana.de/entities/publication/39f6ebfd-833e-4587-93e5-86852d5ce31c). In *Mittelstand 2008*.
 - **2008.** [Die Einfuehrung der fachkundigen Stellungnahme bei der Ich-AG](https://pubdata.leuphana.de/entities/publication/7059b4ef-7ca6-42e1-ac19-56fbab549aca). In *Neue Ansaetze der MittelstandsForschung*.
 
-[alexander-vogel]: https://www.leuphana.de/en/institutes/ivwl/persons.html
 [aly-salama]: https://www.northumbria.ac.uk/about-us/our-staff/s/aly-salama/
 [arnaud-chevalier]: https://pure.royalholloway.ac.uk/portal/en/persons/arnaud-chevalier%28ee9040ef-8395-436b-82bf-5f90721ce376%29.html
 [bahadir-dursun]: https://www.ncl.ac.uk/business/people/profile/bahadirdursun.html
@@ -78,7 +77,6 @@ This page lists selected publications together with a fuller chronological recor
 [harry-pickard]: https://www.ncl.ac.uk/business/people/profile/harrypickard.html
 [joachim-wagner]: https://www.leuphana.de/en/institutes/ivwl/persons/joachim-wagner.html
 [john-wildman]: https://www.ncl.ac.uk/business/people/profile/johnwildman.html
-[kerry-bray]: https://eprints.ncl.ac.uk/author/240628
 [muhammad-waqas]: https://www.bradford.ac.uk/staff/mwaqas9/
 [rasha-abdelbadie]: https://napier.ac.uk/people/rasha-ashraf-abdelbadie-abdelbadie
 [sara-maioli]: https://www.ncl.ac.uk/cre/about/staff/academic/profile/saramaioli.html

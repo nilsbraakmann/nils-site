@@ -40,7 +40,7 @@ I also work on questions in health and education economics, including how educat
 - [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
 - [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* (2025).
 - [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with [Arnaud Chevalier][arnaud-chevalier] and [Tanya Wilson][tanya-wilson]). *American Economic Journal: Applied Economics* (2024).
-- [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with [Kerry Bray][kerry-bray] and [John Wildman][john-wildman]). *Journal of Urban Economics* (2024).
+- [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and [John Wildman][john-wildman]). *Journal of Urban Economics* (2024).
 - [Mass layoffs and voting behaviour: Evidence from the UK](https://doi.org/10.1111/bjir.12749) (with [Wessel Vermeulen][wessel-vermeulen]). *British Journal of Industrial Relations* (2023).
 - [Worker adjustment to unexpected occupational risk: Evidence from COVID-19](https://doi.org/10.1016/j.euroecorev.2022.104325) (with [Barbara Eberth][barbara-eberth] and [John Wildman][john-wildman]). *European Economic Review* (2022).
 - [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* (2020).
@@ -58,6 +58,5 @@ Current and older working papers are available through the [IDEAS/RePEc author p
 [gennaro-rossi]: https://www.reading.ac.uk/economics/our-staff/dr-gennaro-rossi
 [james-reade]: https://www.reading.ac.uk/economics/our-staff/james-reade
 [john-wildman]: https://www.ncl.ac.uk/business/people/profile/johnwildman.html
-[kerry-bray]: https://eprints.ncl.ac.uk/author/240628
 [tanya-wilson]: https://tanyawilson.org/
 [wessel-vermeulen]: https://wnvermeulen.com/
