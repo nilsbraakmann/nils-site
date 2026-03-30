@@ -2,7 +2,15 @@
 title: "Teaching"
 ---
 
-I teach econometrics and applied microeconomics at undergraduate, postgraduate, and doctoral level. My teaching is centred on causal inference, quasi-experimental methods, and the empirical analysis of policy-relevant questions.
+My teaching is guided by a simple principle: economics and econometrics matter most when they help students make sense of important real-world problems. Across my modules, I aim to move students beyond learning techniques in isolation and towards understanding how theory, evidence, and judgement come together in good applied work. Whether I am teaching undergraduate econometrics, advanced causal inference, research practice, or sustainability and climate change, my goal is to help students become careful, critical, and confident users of evidence.
+
+A consistent feature of my teaching is that I build from intuition to method to application. I want students to understand not only how a technique works, but why it is needed, what assumptions it relies on, and where it can go wrong. In econometrics, this means starting from substantive questions and simple empirical settings before moving to more advanced topics such as omitted variables, measurement error, heteroskedasticity, panel methods, discrete choice models, and causal inference designs including difference-in-differences, instrumental variables, and regression discontinuity. My aim is rigorous understanding without losing sight of the question the method is meant to answer.
+
+My teaching is also strongly research-led. Across my modules, students engage with published empirical papers, including frontier research and, where useful, examples from my own work. This allows them to see how economists actually frame questions, justify empirical strategies, test assumptions, and interpret findings. In this way, students encounter economics not as a closed technical system, but as a way of engaging with live social and policy questions.
+
+I place particular emphasis on helping students read and evaluate evidence critically. Students are encouraged to ask where identification comes from, what the relevant counterfactual is, which assumptions are doing the work, and how robust the conclusions really are. This is reflected both in classroom teaching and in assessments that ask students to analyse data, evaluate research designs, and construct evidence-based arguments rather than simply reproduce material mechanically.
+
+More broadly, I try to make the practices of academic and professional work visible. This includes helping students formulate research questions, work with real data, communicate findings clearly, and understand the often uncertain process through which good research develops. My aim is to combine rigour, relevance, and intellectual honesty, so that students leave my modules with strong analytical tools and a clearer sense of how to use them responsibly.
 
 ## Current Modules
 
