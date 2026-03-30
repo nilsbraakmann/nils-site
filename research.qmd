@@ -2,27 +2,25 @@
 title: "Research"
 ---
 
-My work is in empirical microeconomics, with a particular focus on labour economics, the economics of crime, urban economics, health economics, and applied microeconometric methods. Across projects, I am especially interested in how shocks, institutions, and local environments shape individual outcomes and neighbourhood change.
-
-Most of my recent work combines administrative and geocoded data with causal inference methods. Earlier and related work also covers immigration, international economics, and trade policy.
-
 ## Research Themes
+
+My research sits primarily in applied microeconomics, with a focus on labour markets, crime, policing, and urban change. Across these areas, I study how individuals, institutions, and neighbourhoods respond to shocks, incentives, and local economic change.
 
 ### Labour Markets, Shocks, and Adjustment
 
-I study how workers and local labour markets respond to economic shocks, changing workplace risk, and institutional change. This includes mass layoffs, workplace unionisation, and the labour-market consequences of COVID-19.
+I examine how workers and local labour markets respond to disruption and institutional change, including mass layoffs, workplace unionisation, and the labour-market consequences of COVID-19.
 
 ### Crime, Policing, and Neighbourhoods
 
-A large part of my recent research examines crime, policing, and local disorder using highly disaggregated spatial data. This work looks at the geography of crime, civilian responses to policing, and the incentives that shape criminal behaviour.
+A large part of my recent research uses highly disaggregated spatial data to study the geography of crime, civilian responses to policing, and the incentives that shape criminal behaviour.
 
 ### Urban Change and Local Economies
 
-I am interested in neighbourhood composition, housing markets, high street decline, and the broader consequences of local economic change for communities and social outcomes.
+I am interested in neighbourhood composition, housing markets, high street decline, and the broader social consequences of local economic change.
 
 ### Health, Education, and Human Capital
 
-I also work on questions in health and education economics, including how education affects health-related behaviour and how individual and family circumstances shape labour market outcomes.
+I also work on questions in health and education economics, including how education shapes health-related behaviour and how family and individual circumstances affect later labour-market outcomes.
 
 ## Current Projects
 
