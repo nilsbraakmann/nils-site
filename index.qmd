@@ -10,12 +10,21 @@ Professor of Economics at Newcastle University, working in empirical microeconom
 
 I joined Newcastle University in 2010 and currently serve as Deputy Head of Economics. Before moving to Newcastle, I was a researcher and postdoctoral scholar at Leuphana University Lueneburg, where I also completed my doctorate in Economics.
 
-## Research Areas
+## Research Themes
 
-- Labour markets, economic shocks, and political behaviour
-- Crime, policing, and neighbourhood inequality
-- Urban change, housing, and local amenities
-- Health, education, and applied microeconometric methods
+My research examines how people and places respond to shocks, incentives, and institutional change. Using applied microeconomic methods and often highly disaggregated spatial data, I study labour markets, crime, policing, and urban change.
+
+### Labour Market Adjustment
+
+I examine how workers and local labour markets respond to disruption, including mass layoffs, workplace unionisation, and the labour-market consequences of COVID-19. This work is motivated by a broader interest in how economic shocks alter employment, risk, and inequality over time.
+
+### Crime, Policing, and Neighbourhoods
+
+Much of my recent work focuses on crime, policing, and local disorder. I study the spatial distribution of crime, public responses to police behaviour, and the incentives that shape offending, with particular attention to how these processes vary across neighbourhoods.
+
+### Urban Change and Local Economies
+
+Another strand of my research looks at how neighbourhoods change as local economies evolve. This includes work on high street decline, neighbourhood composition, and the effects of changing amenities and local economic conditions on communities and social outcomes.
 
 ## Key Links
 
