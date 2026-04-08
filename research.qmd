@@ -19,7 +19,6 @@ My current research continues to build on these themes, with particular emphasis
 - *The death of the "High Street"? Main street closures, social disorder and urban change* (with [Diego Zambiasi][diego-zambiasi]), revised and resubmitted
 - *Juvenile courts and recidivism* (with [Bahadir Dursun][bahadir-dursun] and [Diego Zambiasi][diego-zambiasi]), revise and resubmit
 - *How New Housing Changes Neighbourhoods: Economic and Social Effects of Local Supply Expansions* (with Edward Lee), revise and resubmit
-- *Football matches and policing: Evidence from London* (with [Andy Chung][andy-chung], [James Reade][james-reade], and [Gennaro Rossi][gennaro-rossi]), revise and resubmit
 - *Temperature, crime and policing: Evidence from UK geocoded data*, under review
 - *Regional employment effects from mass lay-offs across European regions* (with [Wessel Vermeulen][wessel-vermeulen]), under review
 - *Local Crime Without Electoral Sanction: Neighbourhood Public Safety and Incumbent Support in England and Wales*, under review
@@ -41,12 +40,9 @@ Current and older working papers are available through the [IDEAS/RePEc author p
 :::
 
 [arnaud-chevalier]: https://pure.royalholloway.ac.uk/portal/en/persons/arnaud-chevalier%28ee9040ef-8395-436b-82bf-5f90721ce376%29.html
-[andy-chung]: https://www.reading.ac.uk/economics/our-staff/dr-andy-chung
 [bahadir-dursun]: https://www.ncl.ac.uk/business/people/profile/bahadirdursun.html
 [barbara-eberth]: https://www.ncl.ac.uk/business/people/profile/barbaraeberth.html
 [diego-zambiasi]: https://www.ncl.ac.uk/business/people/profile/diegozambiasi.html
-[gennaro-rossi]: https://www.reading.ac.uk/economics/our-staff/dr-gennaro-rossi
-[james-reade]: https://www.reading.ac.uk/economics/our-staff/james-reade
 [john-wildman]: https://www.ncl.ac.uk/business/people/profile/johnwildman.html
 [tanya-wilson]: https://tanyawilson.org/
 [wessel-vermeulen]: https://wnvermeulen.com/
