@@ -29,7 +29,7 @@ This page lists selected publications together with a fuller chronological recor
 ### Refereed Journal Articles
 
 - **2026.** *The death of the "High Street"? Main street closures, social disorder and urban change* (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics*.
-- **2026.** *Football matches and policing: Evidence from London* (with [Andy Chung][andy-chung], [James Reade][james-reade], and [Gennaro Rossi][gennaro-rossi]). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
+- **2026.** [*Football matches and policing: Evidence from London*](https://doi.org/10.1111/obes.70086) (with [Andy Chung][andy-chung], [James Reade][james-reade], and [Gennaro Rossi][gennaro-rossi]). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
 - **2026.** [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). *Oxford Bulletin of Economics and Statistics* 88(3), 426-440.
 - **2026.** [Do higher education strikes affect university outcomes? Evidence from pension disputes in UK universities](https://doi.org/10.1111/irel.12392) (with [Barbara Eberth][barbara-eberth]). *Industrial Relations* 65(1), 45-63.
 - **2026.** [Energy price shocks and the demand for energy-efficient housing: Evidence from Russia's invasion of Ukraine](https://doi.org/10.1111/ecca.70008) (with [Bahadir Dursun][bahadir-dursun] and [Harry Pickard][harry-pickard]). *Economica* 93(369), 30-51.
