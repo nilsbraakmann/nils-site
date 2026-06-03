@@ -27,7 +27,7 @@ My current research continues to build on these themes, with particular emphasis
 ## Selected Papers
 
 - [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). *Oxford Bulletin of Economics and Statistics* 88(3), 426-440 (2026).
-- *The death of the "High Street"? Main street closures, social disorder and urban change* (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics* (2026).
+- [*The death of the "High Street"? Main street closures, social disorder and urban change*](https://doi.org/10.1016/j.jue.2026.103884) (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics* (2026).
 - [Racial Disparities in Civilian Response to Police Use of Force: Evidence from London](https://doi.org/10.1093/bjc/azae037). *British Journal of Criminology* (2025).
 - [Expected Returns to Crime and Crime Location](https://doi.org/10.1257/app.20220585) (with [Arnaud Chevalier][arnaud-chevalier] and [Tanya Wilson][tanya-wilson]). *American Economic Journal: Applied Economics* (2024).
 - [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and [John Wildman][john-wildman]). *Journal of Urban Economics* (2024).

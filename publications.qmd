@@ -20,7 +20,7 @@ This page lists selected publications together with a fuller chronological recor
 
 ### Urban Change and Local Economies
 
-- *The death of the "High Street"? Main street closures, social disorder and urban change* (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics* (2026).
+- [*The death of the "High Street"? Main street closures, social disorder and urban change*](https://doi.org/10.1016/j.jue.2026.103884) (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics* (2026).
 - [Austerity, welfare cuts and hate crime: Evidence from the UK's Age of Austerity](https://doi.org/10.1016/j.jue.2022.103439) (with Kerry Bray and [John Wildman][john-wildman]). *Journal of Urban Economics* 141, 2024, 103439.
 - [Housing subsidies and property prices: Evidence from England](https://doi.org/10.1016/j.regsciurbeco.2018.06.002) (with Stephen McDonald). *Regional Science and Urban Economics* 80, 2020, 103374.
 
@@ -28,7 +28,7 @@ This page lists selected publications together with a fuller chronological recor
 
 ### Refereed Journal Articles
 
-- **2026.** *The death of the "High Street"? Main street closures, social disorder and urban change* (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics*.
+- **2026.** [*The death of the "High Street"? Main street closures, social disorder and urban change*](https://doi.org/10.1016/j.jue.2026.103884) (with [Diego Zambiasi][diego-zambiasi]). Forthcoming in *Journal of Urban Economics*.
 - **2026.** [*Football matches and policing: Evidence from London*](https://doi.org/10.1111/obes.70086) (with [Andy Chung][andy-chung], [James Reade][james-reade], and [Gennaro Rossi][gennaro-rossi]). Forthcoming in *Oxford Bulletin of Economics and Statistics*.
 - **2026.** [Crime prevention through private actors: Evidence from a policy change at a large UK supermarket chain](https://doi.org/10.1111/obes.70020) (with Wednesday Croft). *Oxford Bulletin of Economics and Statistics* 88(3), 426-440.
 - **2026.** [Do higher education strikes affect university outcomes? Evidence from pension disputes in UK universities](https://doi.org/10.1111/irel.12392) (with [Barbara Eberth][barbara-eberth]). *Industrial Relations* 65(1), 45-63.
